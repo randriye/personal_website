@@ -1,0 +1,92 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px;
+}
+
+body
+{
+    background-color: white;
+    /*
+    background-image: url("img/RANDRIAMORA_masque_rsc.jpg");
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-position: top right;
+    back
+    */
+}
+
+footer
+{
+    text-align: center;
+    border-top: 3px navy solid;
+}
+
+h1
+{
+    color:navy;
+    text-align: center;
+    border-bottom: 3px navy solid;
+}
+
+
+
+h2
+{
+    color:navy;
+    border-bottom: 2px navy solid;
+}
+
+
+h4
+{
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 1px;;
+    padding: 0px;
+}
+
+em
+{
+    color: dimgray;
+    font-style: italic;
+}
+
+strong
+{
+    font-weight: bold;
+}
+
+ul
+{
+    color: black;
+    margin-top: 1px;
+}
+
+
+p
+{
+    color: black;
+    margin-bottom: 4px;
+    margin-top: 2px;
+    padding: 0px;
+}
+
+
+
+/*
+h4 + p
+{
+    border-bottom: 1px lightgrey dashed;
+}
+*/
+.contact
+{
+    font-size: medium;
+    color: black;
+}
+
+.para
+{
+    margin-left: 40px;
+}
